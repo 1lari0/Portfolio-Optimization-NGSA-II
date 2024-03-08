@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 20 09:30:00 2023
 
-@author: ilari
-"""
-#%%
 #Portef1.txt, RetRisk31_SolVal.txt, port1.txt ect. files saved to directory
 import pandas as pd
 
